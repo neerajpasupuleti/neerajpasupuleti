@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./neerajgit.png" alt="Naga Neeraj Banner" width="100%">
+  <img src="./banner.png" alt="Naga Neeraj Banner" width="100%">
 </p>
 
 # 💫 About Me
